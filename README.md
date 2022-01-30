@@ -12,7 +12,7 @@ Parameter adalah sebutan lain untuk argumen. Perbedaannya, parameter merujuk kep
 ## Contoh Pemanggilan Fungsi PHP
 Sebagai latihan dan prakter dalam menggunakan fungsi,  Berikut adalah format dasar pemanggilan, dan pengembalian nilai fungsi:
 ```php
-  	$varibel_hasil_fungsi = nama_fungsi(argumen1, argumen2, argumen3)
+  $varibel_hasil_fungsi = nama_fungsi(argumen1, argumen2, argumen3)
 ```
 Penjelasan :
 - '$varibel_hasil_fungsi' adalah variabel yang akan menampung hasil pemrosesan fungsi. Tergantung fungsinya, hasil dari sebuah fungsi bisa berupa angka, string, array, bahkan objek.
