@@ -169,7 +169,7 @@ contoh lain :
 ```
 
 Adapun perbedaan Argumen dan Parameter dalam fungsi PHP adalah sebagai berikut, </br>
-[foto]
+![foto](ArgumenVsParameterPhp.jpg)
 
 **3. Fungsi Mengembalikan Nilai** </br>
 merupakan fungsi yang ditandai dengan sintaks `return` di dalam fungsinya. Contoh fungsi mengembalikan return :
